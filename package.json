@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@langchain/community": "^0.3.56",
+    "@langchain/core": "^0.3.76",
     "@supabase/supabase-js": "^2.57.4",
+    "langchain": "^0.3.33",
     "next": "15.5.3",
     "react": "19.1.0",
     "react-dom": "19.1.0"
