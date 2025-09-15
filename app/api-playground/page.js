@@ -153,8 +153,8 @@ export default function ApiPlayground() {
                   <div className="mt-2 text-sm text-blue-700">
                     <ul className="list-disc list-inside space-y-1">
                       <li>Enter a valid API key from your dashboard</li>
-                      <li>If valid, you'll be redirected to the protected area</li>
-                      <li>If invalid, you'll see an error message</li>
+                      <li>If valid, you&apos;ll be redirected to the protected area</li>
+                      <li>If invalid, you&apos;ll see an error message</li>
                     </ul>
                   </div>
                 </div>
